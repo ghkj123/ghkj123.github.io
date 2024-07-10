@@ -1,0 +1,66 @@
+.header-logo img{
+	width: 93px;
+	height: 44px;
+}
+.offcanvas-logo img{
+	width: 93px;
+	height: 44px;
+}
+
+.corpix-direction-section{
+	overflow: hidden;
+	padding: 60px 0 160px;
+	background: #000;
+}
+.corpix-direction-section .title,.corpix-counter-section .title{
+	text-align: center;
+	color: #fff;
+	padding-bottom: 40px;
+}
+.corpix-direction-section .cell-text{
+	font-size: 36px;
+	line-height: 40px;
+	font-family: "Antonio", sans-serif;
+	font-weight: 700;
+	color: #ffffff;
+	margin-top: 25px;
+}
+.corpix-direction-section .section-cell{
+	margin-top: 40px;
+}
+.corpix-direction-section .section-cell .cell-img img{
+	width: 266px;
+	height: 266px;
+}
+.corpix-counter-section .counter-img img{
+	width: 160px;
+	height: 167px;
+}
+.footer-section .widget-info{
+	display: flex;
+	color: #c4c5c7;
+	font-size: 14px;
+	max-width: 520px;
+}
+.footer-section .widget-info .footer-logo{
+	margin-right: 20px;
+	flex: 0 0 150px;
+}
+.footer-section .widget-info .title{
+	font-size: 24px;
+	color: #fff;
+	padding-top: 8px;
+}
+.footer-section .widget-info .sub-title{
+	font-size: 16px;
+	color: #fff;
+}
+
+.brand-container .brand-wrapper{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.brand-container .brand-wrapper .brand-slide{
+	padding: 0 20px;
+}
